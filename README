@@ -13,5 +13,6 @@ gcc -o server server.c -lpthread -lcjson -lsqlite3
 ./server
 
 
+![Screenshot 2024-06-18 223303](https://github.com/junxian428/C_CRUD_APISERVER_SQLITE_GUI_HTTP_LOG/assets/58724748/b4374319-21d6-4919-91e6-484bd738154b)
 
 
