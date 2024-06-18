@@ -1,0 +1,17 @@
+LOG GUI
+
+sudo apt-get install python3-tk
+
+python3 log_viewer.py
+
+
+Server
+
+gcc -o server server.c -lpthread -lcjson -lsqlite3
+
+
+./server
+
+
+
+
